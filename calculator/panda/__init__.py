@@ -6,3 +6,5 @@ except ImportError:
 
 if pandas_available:
     from .main import my_pandas_function
+else: 
+    print("no pandas Library found")
