@@ -1,6 +1,6 @@
 # my_library/__init__.py
 
-from .pd import my_function
+from .pde import my_function
 import pandas as pd
 
 # Conditional statement to use my_function
